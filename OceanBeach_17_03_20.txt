@@ -1,0 +1,13 @@
+Link: https://www.youtube.com/watch?v=egvahLUB970
+
+Type: Ocean beach
+
+Camera Angle: 45, Top-down
+
+Observations:
+- Pedestrians are much more spread out (except for groups, which tend to maintain arms-length or closer distance to one another)
+	- Maybe a relationship between available space and the space between people/groups?
+	- Higher density on beach, lower density on water (less space on beach, more in water; same space-to-density relationship?)
+	- Varying land/water area desirability?
+- Pairs walk within arms-length distance or closer
+- Loose, temporary lanes may form when there is pedestrian traffic going both directions

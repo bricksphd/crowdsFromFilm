@@ -1,0 +1,23 @@
+Link: https://www.youtube.com/watch?v=Nb5GpV_LUuU
+
+Type: Festival
+
+Camera Angle: 45
+
+Observations:
+[0:45 to 0:52]
+	- Groups tend to walk in close proximity (arms-length or closer) and in a horizontal line
+	- Space between groups and individuals within groups may vary, possibly due to available space
+[0:52 to 1:22]
+	- Idlers (non-pathing pedestrians) may prioritize shade (outdoors)
+	- Pathing seems generally random (just in a general direction)
+	- No set walkways/the whole terrain is a walkway
+	- Conversing groups tend to form circles
+[1:25 to 1:45]
+	- Pedestrians tend to respect boundaries and crowds generally conform to them
+		- In the same way, in the absence of boundaries, pedestrians seem to semi-randomly disperse
+	- Streams of pedestrians seem to form in large crowds
+[1:55 to 2:34]
+	- Pedestrians may prefer established paths to weaving through crowds (maybe until crowd density is less?)
+		- In the same way, pedestrians may abandon established paths to weave through crowds (maybe once crowd density is lower, pathing is easier?)
+	- Pedestrians in "streams" tend to play "follow-the-leader", where if one pedestrian in the stream shifts the path, the rest will follow

@@ -1,0 +1,27 @@
+Link: https://www.youtube.com/watch?v=rLxuiqboCF0
+
+Type: Flash mob
+
+Camera Angle: 45
+
+Observations:
+- Pedestrians may be drawn from their intended path to a stimuli (event or entity) (like social "gravity")
+	- Those drawn to the stimuli may slow down while continuing toward their goal or may stop altogether
+- Pedestrians may walk or stand on non-path areas
+- Pedestrians drawn to a stimuli tend to group more heavily on the side(s) that the stimuli is facing
+- Groups of 2-3 tend to walk in close proximity (arms-length or closer) and in a horizontal line (with minor variance)
+- Many pedestrians walk on the far-right side of their path, forming lanes
+	- Some pedestrians however, walk either the center, or even far-left side
+	- The path in this video is wide enough that "far-right" is somewhat subjective/variable
+		- For example, as a whole the path would appear to be:
+			<------
+			<------
+			------>
+			------>
+		- Being wide enough for multiple lanes going the same direction
+		- However, due to the width of the path, the "directional" lanes are variable, as such:
+			<------
+			------>
+			<------
+			------>
+- Groups of 2 (or more) walking together may break apart to go around an obstacle (2:06 to 2:20, pair at top of screen moving around stroller)
