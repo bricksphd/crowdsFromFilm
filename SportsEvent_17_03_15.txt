@@ -1,0 +1,10 @@
+Link: https://www.youtube.com/watch?v=__YQCy28oZ0
+
+Type: Sports event
+
+Camera Angle: Top down
+
+Observations:
+- Groups tend to walk either next to each other (with slight vertical variance) or behind one another (when path is narrow)
+- Groups of conversing/idling pedestrians tend to form circles
+- Some pedestrians walk on their right side of the path, while others walk on their left side of the path (footage is of USA vs. Ireland polo, maybe cultural influence?)

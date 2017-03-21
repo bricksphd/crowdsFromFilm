@@ -13,3 +13,5 @@ Observations:
 - Groups tend to move in close proximity to one another (many 2-person groups walk touching or nearly touching)
 - In larger groups/areas, "lane" formation may fall apart without clear guidance
 - Pedestrians moving faster seem to move around slower moving pedestrians, sometimes at very close proximity
+
+Note: potential culture bias, video is filmed in Ireland.

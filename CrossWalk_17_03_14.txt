@@ -18,3 +18,5 @@ Observations:
 	- Pedestrians will often take a path somewhere between the most "defined" path and the "crow's" path
 - Pedestrians seem to be generally non-confrontational, slowing down for others that cross their paths to avoid collision
 	- At the same time, some pedestrians show a degree of carelessness for their fellow pedestrians
+
+Note: potential culture bias, video filmed in Estonia.

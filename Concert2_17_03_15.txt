@@ -1,0 +1,16 @@
+Link: https://www.youtube.com/watch?v=mkib9w7Go5Y
+
+Type: Concert
+
+Camera Angle: 45
+
+Observations:
+- "Streams" tend to form in large, condensed crowds (0:00 to 0:20)
+- Pairs of pedestrians tend to walk very close in proximity (arms-length or closer)
+- Speed of movement appears to be constrained by the environment (slow down based on available space, speed of person in front, etc.)
+- Pedestrians not involved in the event, but pathing around crowd tend to path around the crowd rather than through it
+- No apparent pattern to individual movement, seemingly random except for the general direction
+- Groups that are not actively moving (idling, conversing, etc.) tend to face the direction of the event
+- Pedestrians seem to generally path according to established paths or lanes (orange cones from 0:00 to 0:55, pathways in park from 1:00 to 1:16)
+
+Note: potential culture bias, video is filmed in India.
