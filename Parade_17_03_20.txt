@@ -1,0 +1,13 @@
+Link: https://www.youtube.com/watch?v=uZgk62o3f9k
+
+Type: Parade
+
+Camera Angle: 45, Top-down
+
+Observations:
+- Viewing pedestrians appear to prioritize line-of-sight
+- Idling pedestrians appear to generally keep established paths clear
+- Groups tend to walk in horizontal lines, sometimes with slight vertical staggering, maintaining arms-length or closer distance from one another
+- Pedestrians generally respect established barriers (variable barrier "strength"? i.e. police barrier vs arm railing)
+- Density of idling pedestrians appears to be where proximity to event and line-of-sight are greatest
+- Pedestrians appear to generally maintain right-hand lanes, at least on established paths
